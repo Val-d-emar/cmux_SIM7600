@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: ububtu-16
 
     steps:
     - uses: actions/checkout@v3
